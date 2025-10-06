@@ -1,0 +1,2 @@
+CREATE DATABASE fees_db;
+
